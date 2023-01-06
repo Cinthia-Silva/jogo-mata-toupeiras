@@ -120,3 +120,4 @@ var contTempo = setInterval(contadorDeTempo = () => {
 criandoGame();
 moverMartelo();
 contadorDePontos();
+alert("Criadores: @cinthia-silva e @ruan-narici.");
