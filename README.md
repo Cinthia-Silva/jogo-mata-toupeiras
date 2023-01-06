@@ -6,7 +6,7 @@
 | :checkered_flag: INICIADO EM | 04/01/2023 |
 | 	:white_check_mark: FINALIZADO EM | 05/01/2023 |
 | 	:gear: TECNOLOGIAS | Adobe Photoshop, Figma, HTML5, CSS3, Javascript |
-| :globe_with_meridians: URL | |
+| :globe_with_meridians: URL | https://cinthia-silva.github.io/jogo-mata-toupeiras/ |
 
 ## Detalhes 
 O projeto foi criado com base no Mole Game. Porém no projeto é notável um aperfeiçoamento na qualidade das imagens e também no layout.
