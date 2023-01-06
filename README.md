@@ -18,7 +18,7 @@ No final do jogo é exibido a pontuação final e o jogo é reiniciado após o j
 
 ## Atribuições dos criadores
 
-> ```~ Cínthia Oliveira```
+> ```~ Cinthia Silva```
 >> Responsável pelo layout e design do jogo.
 >>> ADOBE PHOTOSHOP, FIGMA, HTML, CSS.
 
