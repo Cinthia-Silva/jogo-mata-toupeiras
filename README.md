@@ -1,5 +1,5 @@
 # Sobre o jogo Mata Toupeiras :otter:
-> Desenvolvido por :woman_technologist: ```@CínthiaOliveira``` e :man_technologist: ```@RuanNarici```.
+> Desenvolvido por :woman_technologist: ```@Cinthia-Silva``` e :man_technologist: ```@Ruan-Narici```.
 
 | :sparkles: Nome | Mata Toupeiras |
 | - | - |
